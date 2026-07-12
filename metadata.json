@@ -1,0 +1,6 @@
+{
+  "name": "EcomPilot AI",
+  "description": "Plateforme d'automatisation intelligente e-commerce pour gérer commandes, livraisons, paiements Wave/Orange Money et réponses IA WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
